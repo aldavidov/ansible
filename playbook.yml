@@ -4,5 +4,3 @@
     file:
       path: "/Users/mdtutorials2/Documents/Ansible/devops_server.txt"
       state: touch
-
-output
